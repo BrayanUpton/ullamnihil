@@ -1,0 +1,46 @@
+{
+  "name": "ullamnihil",
+  "version": "1.0.0",
+  "description": "Port of TweetNaCl cryptographic library to JavaScript",
+  "main": "nacl-fast.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrayanUpton/ullamnihil.git"
+  },
+  "keywords": [
+    "crypto",
+    "cryptography",
+    "inventore",
+    "ex",
+    "encrypt",
+    "ea",
+    "omnis",
+    "esse",
+    "nulla",
+    "public",
+    "quis",
+    "signatures"
+  ],
+  "author": "OtiliaBoehm",
+  "license": "Public domain",
+  "bugs": {
+    "url": "https://github.com/BrayanUpton/ullamnihil.git/issues"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "eslint": "^2.2.0",
+    "faucet": "^0.0.1",
+    "tap-browser-color": "^0.1.2",
+    "tape": "^4.4.0",
+    "tape-run": "^2.1.3",
+    "tweetnacl-util": "^0.13.3",
+    "uglify-js": "^2.6.1"
+  },
+  "browser": {
+    "buffer": false,
+    "crypto": false
+  }
+}
